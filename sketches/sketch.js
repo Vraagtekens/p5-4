@@ -11,7 +11,6 @@ function getFrameSize() {
         frameHeight = frame.offsetHeight
     }
     
-    console.log([frameWidth, frameHeight])
     return [frameWidth, frameHeight]
 }
 
